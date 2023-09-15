@@ -1,0 +1,549 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+}
+.unorderlist{
+    display: flex;
+    
+
+}
+.division{
+   display: flex;
+   justify-content: center;
+   
+}
+.backgroundcolor{
+    background-color: #0B0A0A;
+    width: 100%;
+    height: 80px;
+}
+.list{
+    color: #FFFDFD;
+    list-style-type: none;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 94px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.image{
+    padding: 5px;
+}
+.color{
+    color: #F99705;
+    font-size: 48px;
+    font-family: 'Outfit', sans-serif;
+    margin-bottom: 50px;
+}
+.colorone{
+    color: #FFFFFF;
+    font-size: 24px;
+    
+}
+.backgroundimage{
+    background-image: url(assets/trainersimg.png);
+    width: 100%;
+    height: 623px;
+}
+.main{
+    justify-content: center;
+}
+.subone{
+    text-align: center;
+    padding-top: 13%;
+    padding-right: 35%;
+    justify-content: center;
+
+}
+.subthree{
+    display: flex;
+}
+.mainone{
+    display: flex;
+}
+.subfive{
+    display: flex;
+}
+.maintwo{
+    display: flex;
+}
+.mainone{
+    text-align: center;
+    justify-content: center;
+    padding-top: 10%;
+}
+.maintwo{
+    text-align: center;
+    justify-content: center;
+    padding-top: 10%;
+}
+.gap{
+    margin-left: 30px;
+}
+.heading{
+    color: #F99705;
+    font-size: 22px;
+    font-weight: bolder;
+    font-family: 'Outfit', sans-serif;
+    margin-top: 10px;
+
+}
+.fitness{
+    font-size: 24px;
+    
+}
+.backgroundcolorone{
+    background-color:#FFFFFF;
+    width: 100%;
+    height: 1100px;
+}
+.headingone{
+    color: #F99705;
+    font-size: 48px;
+    font-weight: bolder;
+    font-family: 'Outfit', sans-serif;
+    padding-top: 25%;
+}
+.paragraph{
+    color: #000000;
+    font-size: 24px;
+    font-style: medium;
+    
+    font-weight: 400;
+    padding-top: 10%;
+    
+}
+.mainthree{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-top: 5%;
+}
+.subsix{
+    text-align: center;
+    margin-left: 120px;
+}
+.backgroundcolortwo{
+    background-color:#FFFDFD;
+    width: 100%;
+    height: 800px;
+    margin-top: 50px;
+}
+.subeight{
+    display: flex;
+    
+}
+.mainfour{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 5%;
+    
+}
+.headingtwo{
+    color: #F99705;
+    font-size: 48px;
+    font-weight: bolder;
+    font-family: 'Outfit', sans-serif;
+    padding-top: 5%;
+    
+
+}
+.subnine{
+    text-align: center;
+}
+.backgroundcolorthree{
+    background-color: #FFFDFD;
+    width: 100%;
+    height: 700px;
+}
+.gapone{
+    margin-left: 10px;
+}
+.paragraphone{
+    font-size:24px;
+    margin-top: 10px;
+}
+.headingthree{
+    color: #F99705;
+    font-size: 48px;
+    font-weight: bolder;
+    font-family: 'outfit', sans-serif;
+    
+}
+.mainfive{
+    text-align: center;
+    margin-right: 2px;
+    padding-top: 85px;
+}
+.imageone{
+   margin-left: 4px; 
+}
+.backgroundcolorfour{
+    background-color: #FFFDFD;
+    width: 100%;
+    height: 550px;
+}
+.flexsss{
+    display: flex;
+    justify-content: space-between;
+}
+.paragraphtwosss{
+    font-size: 20px;
+    color: #FFFDFD;
+    padding-top: 2%;
+
+    
+}
+.headingthreesss{
+    color: #F99705;
+    padding-top: 2%;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.paragraphthreesss{
+    font-size: 20px;
+    color: #FFFDFD;
+    padding-top: 2%;
+    
+    
+}
+.headingfoursss{
+    color: #FFFDFD;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Outfit', sans-serif;
+    padding-top: 23%;
+    
+}
+.paragraphfoursss{
+    font-size: 20px;
+    color: #FFFDFD;
+    padding-top: 15%;
+    
+    
+}
+.backgroundcolorpartss{
+    background-color: #000000;
+    width: 100%;
+    height: 450px;
+    margin-top: 60px;
+    
+}
+.headingfivesss{
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Outfit', sans-serif;
+}
+.paragraphfivesss{
+    font-size: 20px;
+    color: #FFFDFD;
+    padding-top: 5%;
+    
+    
+}
+.changesss{
+    background-color: #F99705;
+   border: none;
+   color: #FFFDFD;
+   padding-top: 3%;
+    padding-bottom: 3%;
+   padding-left: 10px;
+   
+}
+.changeonesss{
+    background-color: #FFFBF5;
+    
+    border: none;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 10px;
+    
+}
+.mainsixsss{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.paragraphsixsss{
+    color: #000000;
+    font-size: 20px;
+    
+    font-weight: bolder;
+    padding: 30px;
+    
+}
+.backgroundcolorfivesss{
+    background-color: #FFFDFD;
+    width: 100%;
+    height: 73px;
+}
+.imagesetuptwo{
+    position: relative;
+    margin-left: -46px;
+}
+.mainfiveoness{
+    display: flex;
+    
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    padding-top: 0%;
+}
+.imgsss{
+    margin-left: 10px;
+}
+.subtensss{
+    margin-left: 4%;
+}
+.subninesss{
+    margin-right: 4%;
+    padding-top: 4%;
+}
+.downsss{
+    padding-top: 10%;
+}
+.leftsss{
+    margin-left: 0px;
+}
+.rightsss{
+  margin-right: 50px;
+}
+.subtwelvesss{
+    padding: 10px;
+    padding-left: 250px;
+}
+.list a{
+    text-decoration: none;
+    color: white;
+}
+@media screen and (max-width:500px) {
+    .unorderlist{
+        display: block;
+    }
+    .division{
+       display: block;
+       justify-content: center;
+    }
+    .subthree{
+        display: block;
+    }
+    .mainone{
+        display: block;
+    }
+    .subfive{
+        display: block;
+    }
+    .maintwo{
+        display: block;
+    }
+    .mainthree{
+        display: block;
+        justify-content: center;
+        justify-content: space-between;
+        padding-top: 0px;
+    }
+    .subeight{
+        display: block;
+    }
+    .mainfour{
+        display: block;
+    }
+    .flexsss{
+        display: block;
+    }
+    .mainsixsss{
+        display: flex;
+    }
+    .mainfiveoness{
+        display: block;
+    }
+    header,main,footer{
+        overflow: hidden;
+    }
+    .backgroundcolor{
+        background-color: #0B0A0A;
+        width: 100%;
+        height: 400px;
+    }
+    .backgroundimage{
+        background-image: url(assets/trainersimg.png);
+        width: 100%;
+        height: 180px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    .subone{
+        text-align: center;
+        padding-top: 50px;
+        padding-right: 190px;
+        justify-content: center;
+    }
+    .color{
+        color: #F99705;
+        font-size: 20px;
+        
+        margin-bottom: 15px;
+    }
+    .subtwelvesss{
+        padding: 10px;
+        padding-left: 0px;
+    }
+    .colorone{
+        color: #FFFFFF;
+        font-size: 10px;
+        font-style: italic;
+    }
+    .backgroundcolorone{
+        background-color:#FFFFFF;
+        width: 100%;
+        height: 4350px;
+    }
+    .imagesetup{
+        width: 100%;
+    }
+    .gap{
+        margin-left: 0px;
+    }
+    .backgroundcolortwo{
+        background-color:#FFFDFD;
+        width: 100%;
+        height: 885px;
+        margin-top: 0px;
+    }
+    .subsix{
+        text-align: center;
+        margin-left: 0px;
+    }
+    .headingone{
+        color: #F99705;
+        font-size: 48px;
+        font-weight: bolder;
+    
+        padding-top: 120px;
+    }
+    .imgsss{
+        margin-left: 10px;
+        width: 20px;
+    }
+    .paragraph{
+        color: #000000;
+        font-size: 24px;
+        font-style: medium;
+        font-weight: 400;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .backgroundcolorthree{
+        background-color: #FFFDFD;
+        width: 100%;
+        height: 2335px;
+    }
+    .gapone{
+        margin-left: 0px;
+    }
+    .backgroundcolorfour{
+        background-color: #FFFDFD;
+        width: 100%;
+        height: 2100px;
+    }
+    .headingtwo{
+        color: #F99705;
+        font-size: 48px;
+        font-weight: bolder;
+        font-family: 'Outfit', sans-serif;
+        padding-top: 42%;
+        
+    
+    }
+    .imageone{
+        margin-left: 0px; 
+        width: 100%;
+    }
+    .imagesetupone{
+        width: 100%;
+    }
+    .backgroundcolorpartss{
+        background-color: #000000;
+        width: 100%;
+        height: 1100px;
+        margin-top: 0px;
+    }
+    .mainfiveoness{
+        display: block;
+        text-align: center;
+        justify-content: center;
+        justify-content: space-between;
+        justify-content: space-around;
+        padding-top: 0px;
+    }
+    .subtensss{
+        margin-left: 0px;
+    }
+    .imagesetuptwo{
+        width: 100%;
+        margin-left: 10px;
+    }
+    .paragraphtwosss{
+        font-size: medium;
+        color: #FFFDFD;
+        padding-top: 10px;  
+    }
+    .headingthreesss{
+        color: #F99705;
+        padding-top: 5px;  
+    }
+    .paragraphthreesss{
+        font-size: medium;
+        color: #FFFDFD;
+        padding-top: 5px;  
+    }
+    .backgroundcolorfivesss{
+        background-color: #FFFDFD;
+        width: 100%;
+        height: 40px;
+    }
+    .headingfoursss{
+        color: #FFFDFD;
+        font-size: 48px;
+        font-weight: bolder;
+        
+        padding-top: 15px; 
+    }
+    .leftsss{
+        margin-left: 0px;
+    }
+    .paragraphfoursss{
+        font-size: medium;
+        color: #FFFDFD;
+        padding-top: 20px;
+    }
+    .subninesss{
+        margin-right: 0px;
+        padding-top: 0px;
+    }
+    .paragraphfivesss{
+        font-size: medium;
+        color: #FFFDFD;
+        padding-top: 10px;
+    }
+    .downsss{
+        padding-top: 22px;
+    }
+    .paragraphsixsss{
+        color: #000000;
+        font-size: 10px;
+        font-weight: bolder;
+        padding: 15px;  
+        width: 263%;
+    }  
+    
+}
+
